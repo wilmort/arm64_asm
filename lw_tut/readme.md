@@ -1,4 +1,4 @@
-### lw_tuts 
+### lw_tut
 
 The original tutorial series consists of 11 videos from the youtube channel "LaurieWired" in the playlist "Practical ARM Assembly Tutorial Series". In their videos, LaurieWired covers ARM V7, a 32bit version of ARM.
 
