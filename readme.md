@@ -1,6 +1,6 @@
-Diving into arm64.
+### Diving into arm64.
 
-Resources:
+#### Resources:
 
 Programming with 64-Bit ARM Assembly Language by Stephen Smith
 
